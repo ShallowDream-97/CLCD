@@ -1,0 +1,5 @@
+training model...
+SSL_LOSS:reg_para:2452.357666015625
+Loss:
+0.6823139786720276
+LossGraph:
